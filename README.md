@@ -9,16 +9,16 @@ This data set contains 416 liver patient records and 167 non liver patient recor
 Any patient whose age exceeded 89 is listed as being of age "90".
 
 # Features:
-Age of the patient
-Gender of the patient
-Total Bilirubin
-Direct Bilirubin
-Alkaline Phosphotase
-Alamine Aminotransferase
-Aspartate Aminotransferase
-Total Protiens
-Albumin
-Albumin and Globulin Ratio
+* Age of the patient
+* Gender of the patient
+* Total Bilirubin
+* Direct Bilirubin
+* Alkaline Phosphotase
+* Alamine Aminotransferase
+* Aspartate Aminotransferase
+* Total Protiens
+* Albumin
+* Albumin and Globulin Ratio
 Dataset: field used to split the data into two sets (patient with liver disease, or no disease)
 # Mapping business problem to ML problem
 Type of Machine Learning Problem
